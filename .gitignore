@@ -1,0 +1,11 @@
+# Игнорируем IDE и env
+.idea/
+.env
+
+# Игнорируем содержимое data, но не саму папку
+data/*
+!data/.gitkeep
+
+# Игнорируем содержимое projects, но не саму папку
+projects/*
+!projects/.gitkeep
