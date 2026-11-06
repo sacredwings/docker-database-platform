@@ -1,5 +1,11 @@
 # Docker Voenset Platform
 
+## Старт docker
+
+```env
+docker-compose up -d
+```
+
 ## Стандартный .env
 
 Создайте файл `.env` в корне проекта и заполните его следующими данными:
